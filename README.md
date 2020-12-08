@@ -1,2 +1,2 @@
 # media-for-wiki
-Media files for used wiki pages 
+Media files for use to wiki pages
